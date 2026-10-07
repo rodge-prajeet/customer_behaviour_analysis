@@ -42,5 +42,6 @@ Created a professional analytical report and a Gamma presentation to communicate
 
 
 Conclusion
+
 This project demonstrates practical skills in Data Cleaning, Python, SQL, EDA, Power BI, Data Visualization, and Business Intelligence, following a complete end-to-end Data Analytics workflow.
 
